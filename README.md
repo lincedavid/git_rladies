@@ -1,4 +1,4 @@
-# git_RLadies
+﻿# git_RLadies
 
 Este repositorio es un ejemplo creado para el taller de iniciación a Git y GitHub promovido por la comunidad de R-Ladies Madrid, impartido el día 25/09/2018.
 
@@ -16,7 +16,7 @@ Esta es la lista de asistentes al taller:
 
 1- Pon tu nombre aquí :)
 
-2- ...
+2- DAVID MARTIN
 
 3- ...
 
